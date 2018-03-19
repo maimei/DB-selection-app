@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #42b3f4;
+  height: 90px;
+  padding: 20px;
+  color: #ffffff;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.body {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.sub {
+	width: 23%;
+	display:inline-block;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
