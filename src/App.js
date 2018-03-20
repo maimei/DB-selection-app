@@ -45,6 +45,7 @@ export default class App extends Component {
   }
 
   //shows all available clouds based on the parameter selection of user
+  //TEST: not yet the real method
   convertAPIData() {
     var obj = {"1":5,"2":7,"3":0,"4":0,"5":0,"6":0,"7":0}
     var result = Object.keys(obj).map(function(key) {
