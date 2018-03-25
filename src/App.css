@@ -27,6 +27,10 @@
 	display:inline-block;
 }
 
+.select {
+  color: #b5b6b7;
+}
+
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
